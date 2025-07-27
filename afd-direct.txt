@@ -4,6 +4,8 @@
 # Please help with collecting domains!
 # If you think that a domain was wrongfully included in this list please open an issue here: https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/new
 kaufmann-michael.de
+stephan-protschka.de
+tinochrupalla.de
 afd.nrw
 joernkoenig.de
 afd.de

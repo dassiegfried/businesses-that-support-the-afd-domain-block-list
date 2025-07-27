@@ -37,4 +37,6 @@ https://www.northdata.de/Ziegler,%20Kay-Uwe,%20Bitterfeld/2ci -> unlimited-store
 
 https://de.wikipedia.org/wiki/Rolf_Weigand -> https://www.northdata.de/ancorro%20GmbH,%20Gro%C3%9Fschirma/Amtsgericht%20Chemnitz%20HRB%2029137 -> http://www.ancorro.de/Impressum
 
+https://archive.is/gNjfn
+
 all-inkl.com is the hoster of multiple of the domains(laurenz-herting-stiftung.de,endlos-seile.de) on the list as well as hosting websites for the AFD (https://web.archive.org/web/20250614045533/https://afd-mk-fraktion.de/kontakt/datenschutz/) themselves. So while they dont seem to direclty contribute to the AFD financialy they still support them. imo. 
