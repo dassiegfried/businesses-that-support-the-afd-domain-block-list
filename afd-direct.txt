@@ -1,0 +1,16 @@
+# Title: afd-direct
+# Version: 27.07.2025v1
+# Description: This is a blocklist to A Domain/DNS blocklist that contains websites of the german so called "AFD" 
+# Please help with collecting domains!
+# If you think that a domain was wrongfully included in this list please open an issue here: https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/new
+kaufmann-michael.de
+afd.nrw
+joernkoenig.de
+afd.de
+christoph-neumann.info
+kay-uwe-ziegler.de
+rolfweigand.de
+afd-fraktion-bw.de
+afdfraktion-lsa.de
+andreas-bleck.de
+afd-fraktion-spandau.de

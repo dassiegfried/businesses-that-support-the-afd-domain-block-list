@@ -1,0 +1,44 @@
+# Title: businesses-that-support-the-afd-domain-block-list
+# Version: 27.07.2025v1
+# Description: This is a blocklist to A Domain/DNS blocklist that contains businesses that support the german so called "AFD" 
+# Please help with collecting domains!
+# If you think that a domain was wrongfully included in this list please open an issue here: https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/new
+bueromarkt-ag.de
+cdn.bueromarkt-ag.de
+euroimmun.com
+piwik.euroimmun.de
+issmer-ingenieure-bautraeger.de
+endlos-seile.de
+laurenz-herting-stiftung.de
+labor-stoecker.com
+meva.net
+dingler-baumaschinen.de
+sms-group.com
+wall.de
+dr-wack.com
+wack-group.com
+wackchem.com
+hentschke-bau.de
+klann-anlagentechnik.de
+julitz.com
+lst-chemnitz.de
+evocenta.com 
+wahl-bau.de
+wahl-baugmbh.de
+all-inkl.com
+nordmann.eu
+toolmonitoring.com
+polifakt.de
+deutsche-seereederei.de
+schneekloth-architekten.de
+schenkvision.com
+drschenk.com
+drschenkasia.com
+PreisRoboter.de
+g2-logistik.de
+orbit-antriebstechnik.de
+schmidt-kupplung.com
+unlimited-store.de
+ancorro.de
+feuerzange-derfilm.de
+wvm.de
