@@ -30,5 +30,6 @@ https://lobbypedia.de/w/index.php?pfRunQueryFormName=Parteispenden&title=Spezial
 - https://archive.is/gNjfn
 - [#1](https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/1)
 - [#2](https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/2)
+- https://www.bundestag.de/en/members
 
 all-inkl.com is the hoster of multiple of the domains(laurenz-herting-stiftung.de,endlos-seile.de) on the list as well as hosting websites for the AFD (https://web.archive.org/web/20250614045533/https://afd-mk-fraktion.de/kontakt/datenschutz/) themselves. So while they dont seem to direclty contribute to the AFD financialy they still support them. imo. 
