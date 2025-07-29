@@ -1,12 +1,57 @@
-# To use these Blocklists you can add them to your DNS Blocking or to your Browser Extention AdBlocker 
-### for uBlock Origin go to Settings -> Filter Lists -> import and add one or both urls listed below.
+<div align="center">
+    <img alt="NO AFD logo" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/No-afd-logo.jpg" height="48">
+
+### NO AFD Blocklist
+
+In diesem Repository werden Domains von Unternehmen gesammelt, die direkt oder indirekt die "AFD" unterstützen.
+</div>
+
+
+## Auswahl
+
+Wir bieten aktuell Zwei listen an.
+- Einmal eine Liste von Unternehmen die die "AFD" unterstützen meist durch direkte Spenden. Diese Liste ist [hier](/blocklist.txt) zu finden.
+- Die Zweite liste inkludiert alle Domains die direkt der "AFD" oder ihren (Sub-)Organisationen zuzuordnen sind. Diese Liste ist [hier](/afd-direct.txt) zu finden.
+
+## Benutzung
+
+Um eine oder beide listen zu nutzen, um zugriff auf die Webseiten zu sperren, können Sie nachfolgende Links nutzen um sie Ihrem DNS oder AdBlocker hinzuzufügen.
+
+Die liste kann so beispielsweise bei **uBlock Origin** hinterlegt werden. Einstellungen -> Filter lists -> Import... -> RAW links zu Ausgewählte(n) list(en) einfügen -> Apply Changes
+
 - https://raw.githubusercontent.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/refs/heads/main/blocklist.txt
-  - blocklist that contains businesses that support the german so called "AFD"   
 - https://raw.githubusercontent.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/refs/heads/main/afd-direct.txt
-  - blocklist that contains websites of the german so called "AFD"
 
+## Widersprüche und Ergänzungen
 
-Sources: 
+Solltest du denken, dass eine Domain zu Unrecht auf der Liste steht, erstell bitte [hier](https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/new) eine Issue.
+
+Wir freuen uns über Beiträge aus der Community! Solltest du noch von weiteren Unternehmen oder direkten "AFD" Seiten wissen, die noch nicht bereits auf der Liste sind, lass es mich gern per Issue oder PR wissen. Gib bitte in jedem Fall entweder in der Issue oder in der Readme die Quellen an die eine "AFD" Unterstützung belegen.
+
+# English Version
+
+## Selection
+
+We currently offer two lists.
+- One is a list of companies that support the “AFD” mostly through direct donations. This list can be found [here](/blocklist.txt). 
+- The second list includes all domains that are directly associated with the “AFD” or its (sub)organizations. This list can be found [here](/afd-direct.txt). 
+
+## Usage
+
+To use one or both lists to block access to the websites, you can use the following links to add them to your DNS or ad blocker. 
+
+For example, the list can be stored in **uBlock Origin**. Settings -> Filter lists -> Import... -> Insert RAW link to selected list(s) -> Apply Changes
+
+- https://raw.githubusercontent.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/refs/heads/main/blocklist.txt
+- https://raw.githubusercontent.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/refs/heads/main/afd-direct.txt
+
+## Disagreements and additions
+
+If you believe that a domain has been wrongly included in the list, please create an issue [here](https://github.com/dassiegfried/businesses-that-support-the-afd-domain-block-list/issues/new).
+
+We welcome contributions from the community! If you know of any other companies or direct “AFD” sites that are not already on the list, please let me know via issue or PR. In any case, please cite the sources in either the issue or the readme.
+
+## Sources: 
 
 - https://www.businessinsider.de/politik/deutschland/parteispenden-an-afd-diese-unternehmer-spendeten-millionen/
 - https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/fundstellen50000/2025/2025-inhalt-1032412
